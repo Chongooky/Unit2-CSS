@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Sedan+SC&display=swap');
+
+/* Movie Review CSS Starter File */
+/* We'll add styles here step by step! */
+body {
+    background-color: white;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px; 
+    line-height: 1.6;
+    margin: 0;\
+    padding: 0;
+}
+header {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 40px 20px;
+}
+
+
+/* Step 1: Colors - We'll add these together! */
+
+
+/* Step 2: Typography - Font families coming soon! */
+
+
+/* Step 3: Text styling - Sizes and spacing! */
